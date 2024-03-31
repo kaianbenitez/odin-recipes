@@ -1,0 +1,45 @@
+.heading {
+   font-family: Verdana;
+   font-weight: bold;
+   font-size: 50px;
+   line-height: 30%;
+}
+
+#Photo {
+    width: 775px;
+
+}
+
+.buttons {
+    background-color: white;
+    font-family: Tahoma;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(67, 67, 255);
+
+    padding: 5px 20px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+p {
+    
+    font-family: verdana;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    font-family: verdana;
+}
+
+ol {
+    font-size: 20px;
+    font-family: verdana;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: verdana;
+}
